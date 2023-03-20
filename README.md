@@ -1,3 +1,4 @@
+# trabajontornos
 # Store POS
 This is simple pos (point of sale) software for retail/wholesale store which is developed in java JavaFx. Purchase, sale, and inventory modules are completed and finance module may be developed later once get time. I also looking for a java open source contributor who can help us to develop a complete product of accounting and finance erp.
 
